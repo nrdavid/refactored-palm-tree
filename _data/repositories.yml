@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nrdavid
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nrdavid/whsun-viz
+  - nrdavid/whsun-docs
+  - nrdavid/nrdavid.github.io
+  - nrdavid/faraday4Vs
+  - nrdavid/thermo_partials
+  - nrdavid/MSE-Outreach

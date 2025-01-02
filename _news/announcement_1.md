@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I start my Ph.D. in Materials Science Engineering and Scientific Computing at the University of Michigan.
